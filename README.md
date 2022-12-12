@@ -53,5 +53,19 @@ Cup Terrains - Maps https://steamcommunity.com/workshop/filedetails/?id=58354498
 
 # More to come soon
 
+# KP Liberation - Half life Altis
+Required mods
+CBA_A3 https://steamcommunity.com/workshop/filedetails/?id=450814997
+Half life: Our benefactors https://steamcommunity.com/workshop/filedetails/?id=2842058429
+Half-life 2: Echoes of the Resonance Cascade https://steamcommunity.com/workshop/filedetails/?id=1732309539
+Improved Melee System https://steamcommunity.com/workshop/filedetails/?id=2291129343
+Webknight's Zombies and Creatures https://steamcommunity.com/workshop/filedetails/?id=2789152015
+JM's Structures https://steamcommunity.com/workshop/filedetails/?id=1876589191
 
 
+# KP Liberation - Half life Chernarus Redux
+
+Required mods
+Made for Universal Union Use - Requires modset from unit
+https://www.dropbox.com/s/ikcrnl5h9g63byj/Arma%203%20Preset%20Universal%20Union.html?dl=1
+Modset can be found ^
